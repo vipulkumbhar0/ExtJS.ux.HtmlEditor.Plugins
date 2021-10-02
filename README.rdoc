@@ -72,4 +72,4 @@ For nice icon sets, check out the following sites.
 * http://code.google.com/p/fugue-icons
 * http://www.everaldo.com/crystal 
 
-Code released under the MIT license: http://www.opensource.org/licenses/mit-license.php
+Code released under the MIT license - http://www.opensource.org/licenses/mit-license.php
